@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  font-family: Impact, Charcoal, sans-serif
+};
+
+h2 {
+  text-decoration: underline;
+};
+
+table {
+  display: inline-block;
+}
